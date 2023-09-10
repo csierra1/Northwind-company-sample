@@ -1,0 +1,5 @@
+--List all the products by category
+-- List the different categories of Products
+
+Select CategoryName,Description
+From Categories;
