@@ -1,10 +1,10 @@
 # Northwind company sample
-##Introduction
+## Introduction 
 SQL analysis of the sales data for Northwind Traders, a fictitious specialty foods export-import company
 
 link - analysis
 
-##Databases used
+## Databases used
 It contains the following databases:
 - Employees
 - Orders
