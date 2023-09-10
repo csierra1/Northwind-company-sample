@@ -1,5 +1,4 @@
 # Northwind company sample
-Repository for SQL code in Northwind sample database
 ##Introduction
 SQL analysis of the sales data for Northwind Traders, a fictitious specialty foods export-import company
 
